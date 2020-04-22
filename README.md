@@ -1,7 +1,7 @@
 # MktgDocs
 Marketing Content
 
-This repository contains examples of long and short marketing forms which I authored while working at General Vision.
+This repository contains examples of long and short marketing forms which I authored while working at General Vision and GTFS Inc..
 
 Example of website:
 https://www.general-vision.com/neuromem/ (the home page has been changed since my departure from the company)
